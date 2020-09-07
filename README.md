@@ -32,11 +32,11 @@ The notes for the folders:
 3.Main Functions<br>
   * main_running.m is the main function for the tracking test
 		- It has the function to validate the results.
-	* perfPlot.m is the main function for drawing precision plots and success plots.
+  * perfPlot.m is the main function for drawing precision plots and success plots.
 		- It will call 'genPerfMat.m' to generate the values for plots.
   * perfPlotAMCR.m is the main function for drawing AMCR plots.
 		- It will call 'genPerfMatAMCR.m' to generate the values for plots.
-	* drawResultBB.m is the main function for drawing bounding boxes (BBs) of different trackers on each frame
+  * drawResultBB.m is the main function for drawing bounding boxes (BBs) of different trackers on each frame
   
   4.Acknowledgment<br>
   We thank Y. Wu, J. Lim, and M.-H. Yang for the "Object Tracking Benchmark" published on IEEE Transactions on Pattern Analysis & Machine Intelligence. Part of the code for this experiment comes from OTB100.
