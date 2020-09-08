@@ -16,18 +16,18 @@ The notes for the folders:
   We proposed a dataset specififically for abrupt motion tracking (AMTSet), which mainly comes from three special scenes of camera switching, sudden dynamic change, and low frame rate video, so as to facilitate the evaluation of abrupt motion tracking.<br>
   All sequences of the dataset are provided in BaiduNetdisk:<br>
   Link：https://pan.baidu.com/s/1AQuMcy-CrH18haP8SP92KA 
-  Passward：w984
+  Password：w984
   
 2.Trackers<br>
   We tested 30 representative tracking methods and sorted them according to the final results.<br>
   All trackers:<br>
   Link：https://pan.baidu.com/s/1wJ0zKYjXiAGv6nam2JXRYg 
-  Passward：ju3r
+  Password：ju3r
   
   The information for all trackers is listed in the file trackers.txt.<br>
   Full results of 30 trackers:<br>
   Link：https://pan.baidu.com/s/1WRJCEyxzsub37mbD_Itbyw 
-  Passward：i5bu<br>
+  Password：i5bu<br>
   
 3.Main Functions<br>
   * main_running.m is the main function for the tracking test
