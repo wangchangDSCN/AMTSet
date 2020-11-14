@@ -19,15 +19,15 @@ The notes for the folders:
   Password：w984
   
 2.Trackers<br>
-  We tested 30 representative tracking methods and sorted them according to the final results.<br>
+  We tested 36 representative tracking methods and sorted them according to the final results.<br>
   All trackers:<br>
-  Link：https://pan.baidu.com/s/1wJ0zKYjXiAGv6nam2JXRYg 
-  Password：ju3r
+  Link：https://pan.baidu.com/s/1dkjYU9VolrK4CbC1tvOy-A 
+  Password：r8re
   
   The information for all trackers is listed in the file trackers.txt.<br>
-  Full results of 30 trackers:<br>
-  Link：https://pan.baidu.com/s/1WRJCEyxzsub37mbD_Itbyw 
-  Password：i5bu<br>
+  Full results of 36 trackers:<br>
+  Link：https://pan.baidu.com/s/1mNXRj6ukbTxlixfkgASRbw 
+  Password：o4q5<br>
   
 3.Main Functions<br>
   * main_running.m is the main function for the tracking test
